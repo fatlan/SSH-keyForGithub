@@ -23,4 +23,6 @@ $ git push
 
 You should not be asked for a username or password. If it works, your SSH key is correctly configured.
 
+ref: [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 forked by [https://gist.github.com/developius/c81f021eb5c5916013dc](https://gist.github.com/developius/c81f021eb5c5916013dc)
