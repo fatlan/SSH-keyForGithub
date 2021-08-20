@@ -2,7 +2,7 @@ Create a new repository, or reuse an existing one.
 
 Generate a new SSH key:
 ~~~
-ssh-keygen -t rsa -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ~~~
 Copy the contents of the file ~/.ssh/id_rsa.pub to your SSH keys in your GitHub account settings (https://github.com/settings/keys).
 
